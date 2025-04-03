@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UgJV+td85So=",
+  "success": true,
+  "projectFilePath": "/Users/mehmet.oztokay/Documents/projects/Dotnet.CleanArchitecture/App.Api/App.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/mehmet.oztokay/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/mehmet.oztokay/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
